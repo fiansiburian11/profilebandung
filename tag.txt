@@ -1,0 +1,7 @@
+tag <pre>yang diketik di code dan hasilnya akan sama persiss</pre>
+
+tag 	<figure>
+		<figcapion>memberikan nama pas dibawah gambar</figcaption>
+	</figure>
+
+media query// mengatur tampilan mobile device
